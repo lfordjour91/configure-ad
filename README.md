@@ -22,7 +22,7 @@ This project demonstrates the configuration of Active Directory Domain Services 
   -The Client Machine running a Windows 10 VM
 - Both machines on the same virtual network
 
-<h2>Configuration Steps of Active Directory</h2>
+<h2>Steps of Setting Up Active Directory</h2>
 
 <p>
 <img width="757" height="535" alt="Screenshot 2026-04-14 at 11 45 43 AM" src="https://github.com/user-attachments/assets/c3c5853a-07da-4ba2-8f8d-c3366abd9997" />
